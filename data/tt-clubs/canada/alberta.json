@@ -1,0 +1,72 @@
+[
+  {
+    "id": "custta",
+    "name": "Calgary United Sports Table Tennis Association",
+    "address": "401 – 33 Street NE Calgary, Alberta T2A 7R3",
+    "website": "http://custta.com",
+    "facebook": "N/A",
+    "phone": "(403)617-2208",
+    "email": "custta@hotmail.com",
+    "pricePerHour": "N/A",
+    "pricePerDay": "N/A",
+    "lat": 51.0555283746536,
+    "lng": -113.98708037542153,
+    "images": [
+      "http://www.custta.com/images/CusttaInterior.jpg",
+      "http://www.custta.com/Pictures/2013%20Grand%20Opening/_DSC4947.JPG"
+    ],
+    "priceBy": "person",
+    "traits": {
+      "_permanence": 2,
+      "_hours": 2,
+      "_club_size": 2,
+      "_ceiling_height": 2,
+      "_flooring": 2,
+      "_lighting": 2,
+      "_court_size": 2,
+      "_barriers": 1,
+      "_group_training": 1,
+      "_walkin_friendly": 2,
+      "_pro_coaches": 2,
+      "_tournaments": 2,
+      "_table_quality": 2,
+      "_climate_control": null,
+      "_accessibility": null
+    }
+  },
+  {
+    "id": "tpttc",
+    "name": "The Peoples Table Tennis Club",
+    "address": "Bay 4, 700-33rd Street N.E. Calgary, Alberta, T2A 5N9",
+    "website": "https://fitpong.ca/",
+    "facebook": "N/A",
+    "phone": "(403) 263-7664",
+    "email": "fitpong@telus.net",
+    "pricePerHour": "$7.50 CAD",
+    "pricePerDay": "N/A",
+    "lat": 51.05817705187233,
+    "lng": -113.98502066192871,
+    "images": [
+      "https://fitpong.ca/sites/default/files/28.jpg",
+      "https://fitpong.ca/sites/default/files/29.jpg"
+    ],
+    "priceBy": "person",
+    "traits": {
+      "_permanence": 2,
+      "_hours": 2,
+      "_club_size": 2,
+      "_ceiling_height": 2,
+      "_flooring": 1,
+      "_lighting": 2,
+      "_court_size": 2,
+      "_barriers": 1,
+      "_group_training": 1,
+      "_walkin_friendly": 2,
+      "_pro_coaches": 2,
+      "_tournaments": 2,
+      "_table_quality": 2,
+      "_climate_control": null,
+      "_accessibility": null
+    }
+  }
+]

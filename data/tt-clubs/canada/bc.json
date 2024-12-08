@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vttc",
+    "name": "Vancouver Table Tennis Club",
+    "address": "3925 Fraser St, Vancouver, BC V5V 4E5",
+    "website": "https://vttc.ca/",
+    "facebook": "https://www.facebook.com/vttc.vttc",
+    "phone": "1-604-771-9188",
+    "email": "vttc@vttc.ca",
+    "pricePerHour": "N/A",
+    "pricePerDay": "$8.00 CAD",
+    "lat": 49.249894101464754,
+    "lng": -123.0892944550498,
+    "images": [
+      "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/1930640_478766138973402_5660176642927156010_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=UYWHagy_cnAAX9dlRFH&_nc_ht=scontent-sjc3-1.xx&oh=cf98a680533f478c56e9f6c92e0f995d&oe=619D5C29",
+      "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/994784_152278331622186_1967777709_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=19026a&_nc_ohc=pu9vTazjctwAX-ftyKa&_nc_ht=scontent-sjc3-1.xx&oh=05adfc0c3f36a985691f042fd1bc63f2&oe=619C440B"
+    ],
+    "priceBy": "person",
+    "traits": {
+      "_permanence": 2,
+      "_hours": 2,
+      "_club_size": 2,
+      "_ceiling_height": 2,
+      "_flooring": 1,
+      "_lighting": 2,
+      "_court_size": 2,
+      "_barriers": 0,
+      "_group_training": 1,
+      "_walkin_friendly": 2,
+      "_pro_coaches": 2,
+      "_tournaments": 2,
+      "_table_quality": 2,
+      "_climate_control": null,
+      "_accessibility": null
+    }
+  },
+  {
+    "id": "nsttc",
+    "name": "North Shore Table Tennis Club",
+    "address": "Location : 1555 Forbes ave, North Vancouver,BC",
+    "website": "https://nsttc.ca/",
+    "facebook": "https://www.facebook.com/NorthShoreTableTennisClub",
+    "phone": "604-209-7037",
+    "email": "info@nsttc.ca",
+    "pricePerHour": "$5.00 CAD",
+    "pricePerDay": "N/A",
+    "lat": 49.32327724559621,
+    "lng": -123.0844430717876,
+    "images": [
+      "https://nsttc.ca/wp-content/uploads/2021/09/set-up-131-2048x1286.jpg",
+      ""
+    ],
+    "priceBy": "person",
+    "traits": {
+      "_permanence": 1,
+      "_hours": 2,
+      "_club_size": 1,
+      "_ceiling_height": 2,
+      "_flooring": 1,
+      "_lighting": 2,
+      "_court_size": 1,
+      "_barriers": 0,
+      "_group_training": 2,
+      "_walkin_friendly": 2,
+      "_pro_coaches": 2,
+      "_tournaments": 1,
+      "_table_quality": 2,
+      "_climate_control": null,
+      "_accessibility": null
+    }
+  }
+]

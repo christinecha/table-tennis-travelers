@@ -28,7 +28,7 @@ Once you've added new clubs to the repo (or made any other changes), please subm
 
 ```sh
 git checkout main
-yarn install
+yarn install // I had to run this: npm install -g yarn
 yarn run dev
 ```
 
@@ -37,3 +37,5 @@ yarn run dev
 `// TODO: Make this a proper commit hook`
 
 Run `yarn run check-clubs`. Clubs should have all of their required fields before you commit.
+
+
